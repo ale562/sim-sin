@@ -1,0 +1,196 @@
+# SimC Addon 1.12.2
+# Requires SimulationCraft 820-01 or newer
+
+rogue="Hacklex"
+level=120
+race=undead
+region=us
+server=illidan
+role=attack
+professions=alchemy=133/herbalism=175
+talents=2312321
+spec=assassination
+
+azerite_essences=23:4/300573/27:3/300575
+# azerite_essences_available=4:2/5:2/12:2/14:2/15:2/22:2/23:4/27:3/28:1/32:1
+
+head=,id=168349,bonus_id=4823/1502/4786/6267/4775,context=5,azerite_powers=136/249/30/15/13
+neck=,id=158075,bonus_id=6316/4932/4933/1586,context=11,azerite_level=58
+shoulder=,id=168348,bonus_id=4823/1502/4786/6268,context=5,azerite_powers=136/576/459/15
+back=,id=159294,bonus_id=5010/40/1602/4786,context=16
+chest=,id=159314,bonus_id=5445/1602/4786/6266,context=35,azerite_powers=136/181/30/85
+wrist=,id=167766,gem_id=168641,bonus_id=6300/4802/41/6292/1502/4786
+hands=,id=170334,gem_id=168641,bonus_id=6300/4802/6292/1502/4786
+waist=,id=168379,bonus_id=4800/1517/5850/4783,context=6
+legs=,id=155869,bonus_id=5010/41/1597/4784,context=16
+feet=,id=170141,gem_id=168641,bonus_id=6300/4802/6292/1502/4786
+finger1=,id=159459,enchant_id=6109,gem_id=168641,bonus_id=5010/4802/1602/4786,context=16
+finger2=,id=159463,enchant_id=6109,gem_id=168641,bonus_id=5010/4802/1572/4786,context=16
+trinket1=,id=159623,gem_id=168641,bonus_id=5010/4802/1582/4783,context=35
+trinket2=,id=169314,bonus_id=4798/1487/4786,context=3
+main_hand=,id=159134,enchant_id=6148,gem_id=168641,bonus_id=5010/4802/1612/5850/4784,context=35
+off_hand=,id=159136,enchant_id=5963,bonus_id=5010/1602/4786,context=16
+
+### Gear from Bags
+#
+# Cowl of Fluid Machinations (420)
+# head=,id=159302,bonus_id=5448/1587/4786/5420/4775,context=35,azerite_powers=407/408/22/217/13
+#
+# Irontide Captain's Hat (435)
+# head=,id=155888,bonus_id=5445/1602/4786/6267/4775,context=35,azerite_powers=407/181/30/85/13
+#
+# Crown of A'akul's Dark Reign (405)
+# head=,id=165526,bonus_id=4823/1522/4786/5417/4775,context=5,azerite_powers=446/411/31/548/13
+#
+# Helm of the Inexorable Tide (420)
+# head=,id=168345,bonus_id=4822/1487/4786/6264/4775,context=3,azerite_powers=180/129/31/83/13
+#
+# Notorious Gladiator's Leather Hood (415)
+# head=,id=167309,bonus_id=6349/1527/4786/5420/6346,context=25,azerite_powers=
+#
+# Tidal Drifter's Shoulders (430)
+# shoulder=,id=168346,bonus_id=4823/1502/4786/6268,context=5,azerite_powers=249/181/30/217
+#
+# Notorious Gladiator's Leather Spaulders (415)
+# shoulder=,id=167247,bonus_id=6321/6348/1527/4786/6265,context=56,azerite_powers=
+#
+# Extravagant Epaulettes (420)
+# shoulder=,id=168984,bonus_id=4819/1472/4786/6265/4775,context=23,azerite_powers=129/446/22/85/13
+#
+# Loa Exultant's Shroud (410)
+# back=,id=165512,bonus_id=4799/1532/4783,context=5
+#
+# Cloak of the Restless Tribes (405)
+# back=,id=159288,gem_id=168641,bonus_id=5010/4802/1577/4783,context=16
+#
+# Trashmaster's Mantle (415)
+# back=,id=168970,bonus_id=4819/1472/4786,context=23
+#
+# Tunic of the Sycophant (430)
+# chest=,id=168350,bonus_id=4823/1502/4786/6266,context=5,azerite_powers=129/575/22/85
+#
+# Tunic of the Sycophant (415)
+# chest=,id=168350,bonus_id=4822/1487/4786/6263,context=3,azerite_powers=
+#
+# Raiment of the Blighted Tribe (430)
+# chest=,id=159335,bonus_id=5445/1602/4786/6266,context=35,azerite_powers=408/407/31/548
+#
+# Raiment of the Blighted Tribe (430)
+# chest=,id=159335,bonus_id=5445/1602/4786/6266,context=35,azerite_powers=408/407/31/44
+#
+# Venture Co. Plenipotentiary Vest (420)
+# chest=,id=159298,bonus_id=5448/1587/4786/5419/4775,context=35,azerite_powers=180/411/30/14/13
+#
+# Sleeveless T-Shirt (1)
+# shirt=,id=18231,context=7
+#
+# Kula's Butchering Wristwraps (430)
+# wrist=,id=159300,bonus_id=5010/1602/4786,context=16
+#
+# Gloves of Incomparable Beauty (415)
+# hands=,id=168887,bonus_id=4798/1487/4786,context=3
+#
+# Grubby Servant-Grabbers (440)
+# hands=,id=159346,bonus_id=5010/40/1612/4783,context=35
+#
+# Anglerfish Feelers (430)
+# hands=,id=168376,bonus_id=4799/1502/4786,context=5
+#
+# Fathomstalker Grips (385)
+# hands=,id=167761,bonus_id=6288/6300
+#
+# Fathomstalker Waistband (420)
+# waist=,id=167765,gem_id=168641,bonus_id=6300/4802/6293/1507/4786
+#
+# Vim's Scalecrusher Clasp (385)
+# waist=,id=170368,bonus_id=6288/6300
+#
+# Fathomstalker Legwraps (385)
+# legs=,id=167763,bonus_id=6288/6300/4802
+#
+# Notorious Gladiator's Leather Pants (415)
+# legs=,id=167310,bonus_id=6348/1527/4786/5843,context=25
+#
+# Leggings of the Stormborn (430)
+# legs=,id=168378,bonus_id=4799/43/1502/4786,context=5
+#
+# Footpads of the Serene Wake (435)
+# feet=,id=159295,bonus_id=5010/1602/5850/4783,context=16
+#
+# Seal of the Zandalari Empire (400)
+# finger1=,id=165567,enchant_id=5943,bonus_id=4799/1522/4786,context=5
+#
+# Cursed Lover's Ring (415)
+# finger1=,id=168891,enchant_id=6108,bonus_id=4798/1487/4786,context=3
+#
+# Overseer's Lost Seal (400)
+# finger1=,id=159460,enchant_id=6109,gem_id=168641,bonus_id=5009/4802/1572/4783,context=16
+#
+# Seal of the City Watch (430)
+# finger1=,id=162542,bonus_id=5010/1602/4786,context=16
+#
+# Notorious Gladiator's Band (400)
+# finger1=,id=167375,bonus_id=5843/6349/1512/4786,context=11
+#
+# Ornate Elun'dris Ring (415)
+# finger1=,id=165679,enchant_id=6109,bonus_id=4803/1607/4786,context=28
+#
+# Seal of Questionable Loyalties (400)
+# finger1=,id=158314,enchant_id=6109,bonus_id=5010/1572/4786,context=16
+#
+# Band of the Ancient Dredger (400)
+# finger1=,id=159461,enchant_id=5943,bonus_id=5010/1572/4786,context=16
+#
+# Charged Sandstone Band (430)
+# finger1=,id=158366,enchant_id=6109,bonus_id=5010/1602/4786,context=16
+#
+# Tiny Electromental in a Jar (420)
+# trinket1=,id=158374,bonus_id=5010/40/1587/5850/4783,context=16
+#
+# Harlan's Loaded Dice (415)
+# trinket1=,id=155881,bonus_id=5005/1587/4786,context=16
+#
+# Kimbul's Razor Claw (415)
+# trinket1=,id=165579,bonus_id=4800/1537/4786,context=6
+#
+# Pocket-Sized Computation Device (415)
+# trinket1=,id=167555,gem_id=168756/168749/168648,gem_bonus_id=1472:4786/1472:4786,bonus_id=1487,context=11
+#
+# Vision of Demise (430)
+# trinket1=,id=169307,bonus_id=4799/1502/4786,context=5
+#
+# Kul Tiran Cannonball Runner (410)
+# trinket1=,id=159628,bonus_id=5010/1582/4783,context=35
+#
+# Lustrous Golden Plumage (410)
+# trinket1=,id=159617,bonus_id=5010/1582/4783,context=35
+#
+# Variable Intensity Gigavolt Oscillating Reactor (415)
+# trinket1=,id=165572,bonus_id=4800/1537/4786,context=6
+#
+# Forest Lord's Razorleaf (400)
+# trinket1=,id=166794,bonus_id=5479/1517/4786,context=3
+#
+# Highborne Compendium of Sundering (400)
+# trinket1=,id=169321,context=13
+#
+# Notorious Aspirant's Insignia (400)
+# trinket1=,id=167527,bonus_id=4802/1507/5850/4781,context=47
+#
+# Notorious Aspirant's Badge (395)
+# trinket1=,id=167528,bonus_id=1507/4785,context=47
+#
+# Notorious Aspirant's Emblem (395)
+# trinket1=,id=167526,bonus_id=1507/4785,context=47
+#
+# Sinister Wicker Talons (425)
+# main_hand=,id=159659,enchant_id=6148,bonus_id=5009/1597/4786,context=16
+#
+# Bile-Stained Crawg Tusks (400)
+# main_hand=,id=159653,enchant_id=5963,bonus_id=5010/1572/4786,context=16
+#
+# Sinister Wicker Talons (425)
+# off_hand=,id=159659,enchant_id=6148,bonus_id=5009/1597/4786,context=16
+#
+# Bile-Stained Crawg Tusks (400)
+# off_hand=,id=159653,enchant_id=5963,bonus_id=5010/1572/4786,context=16
